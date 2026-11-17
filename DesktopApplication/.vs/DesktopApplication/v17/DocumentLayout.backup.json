@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|c:\\users\\michael\\desktop\\asciiartgenerator\\desktopapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|c:\\users\\michael\\desktop\\asciiartgenerator\\desktopapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|c:\\users\\michael\\desktop\\asciiartgenerator\\desktopapplication\\asciiconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|solutionrelative:asciiconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|c:\\users\\michael\\desktop\\asciiartgenerator\\desktopapplication\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0506D700-A17B-488B-AAAA-847FB451989A}|DesktopApplication.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ASCIIConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\ASCIIConverter.cs",
-              "RelativeDocumentMoniker": "ASCIIConverter.cs",
-              "ToolTip": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\ASCIIConverter.cs",
-              "RelativeToolTip": "ASCIIConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T15:27:17.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\MainForm.cs [Design]",
-              "RelativeToolTip": "MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T13:07:43.55Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAANAAAAAAAAAAAAAUwAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-03T11:14:21.574Z",
+              "WhenOpened": "2026-11-17T09:00:51.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASCIIConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\ASCIIConverter.cs",
+              "RelativeDocumentMoniker": "ASCIIConverter.cs",
+              "ToolTip": "C:\\Users\\Michael\\Desktop\\ASCIIArtGenerator\\DesktopApplication\\ASCIIConverter.cs",
+              "RelativeToolTip": "ASCIIConverter.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:27:17.013Z",
               "EditorCaption": ""
             }
           ]
