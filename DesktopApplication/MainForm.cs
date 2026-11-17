@@ -100,6 +100,8 @@ namespace DesktopApplication
             { } // C++ Execution
             else
             { } // ASM Execution
+
+            MessageBox.Show(this, "ASCII Art generated.", "Operation completed", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         /// <summary>
